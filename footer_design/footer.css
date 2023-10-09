@@ -9,7 +9,7 @@ body{
     background: #eef8ff;
 }
 footer{
-    width: 100%;
+    width: 99%;
     position: absolute;
     bottom: 0;
     background: linear-gradient(to right, #00aeef , #ed1c24);
@@ -53,7 +53,7 @@ ul li{
     margin-bottom: 12px;
 }
 ul li a{
-    text-decoration: none;
+    
     color:#fff;
 }
 
@@ -88,8 +88,8 @@ form button .fas{
 
 }
 .social-icons .fa-brands{
-    width: 31px;
-    height: 32px;
+    width: 30px;
+    height: 33px;
     border-radius: 50%;
     text-align: center;
     line-height: 35px;
